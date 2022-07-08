@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color: #f7f7f7;
+    
+}
+
+.navbar-link {
+    text-decoration: none;
+}
+
+.navbar-button {
+    color: black;
+}
